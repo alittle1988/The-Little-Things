@@ -1,0 +1,26 @@
+/* Home Page*/
+
+/*header*/
+
+#headerdetails{
+    font-family: "fuggles", "cursive";
+    font-size: 2rem;
+}
+
+.navbar .navbar-brand{
+    font-size: 3.5rem;
+}
+
+
+/*body*/
+
+.main{
+    position: relative;
+    background-color:linen;
+    top: 110px;
+}
+
+#introfont{
+    font-family: "fuggles";
+    font-size: 5rem;
+}
