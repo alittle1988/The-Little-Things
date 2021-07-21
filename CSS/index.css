@@ -4,11 +4,14 @@
 
 #headerdetails{
     font-family: "fuggles", "cursive";
+    font-weight: 700;
     font-size: 2rem;
 }
 
 .navbar .navbar-brand{
-    font-size: 3.5rem;
+    font-size: 5rem;
+
+    
 }
 
 
@@ -16,11 +19,21 @@
 
 .main{
     position: relative;
-    background-color:linen;
-    top: 110px;
+    background-color:rgb(238, 231, 223);
+    top: 146px;
 }
 
 #introfont{
     font-family: "fuggles", "cursive";
     font-size: 5rem;
+}
+#intropic{
+    width: 550px;
+    height: auto;
+
+}
+
+#subheads{
+    font-size: 3rem;
+    font-family: "fuggles", cursive;
 }
