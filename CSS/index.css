@@ -19,8 +19,8 @@
 
 .main{
     position: relative;
-    background-color:rgb(238, 231, 223);
     top: 146px;
+    background-color: rgb(238, 231, 223);
 }
 
 #introfont{
@@ -37,3 +37,37 @@
     font-size: 3rem;
     font-family: "fuggles", cursive;
 }
+
+
+
+/*Blog page*/
+
+#titlefont{
+    font-family: "fuggles",cursive;
+}
+ #blogspad{
+     padding-left: 20px;
+     padding-right: 20px;
+     word-spacing: 3px;
+ }
+ 
+ #blogp{
+     word-spacing: 3px;
+ }
+
+
+#blogtoc{
+   border-width:  20px !important;
+  
+}
+
+#blogtoch6{
+    font-size: 3rem;
+    font-family: "fuggles", cursive;
+}
+
+#licenter{
+    list-style-position: inside;
+    text-align: center;
+}
+
